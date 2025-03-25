@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="100%" height="400px">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="100%" height="300px">
 </p>
 
 <p align="center">
