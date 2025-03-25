@@ -20,46 +20,54 @@
   <img src="https://img.shields.io/badge/Framer%20Motion-%23FF0066.svg?style=for-the-badge&logo=framer&logoColor=white">
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
 </p>
+# 🚀 About Me
+<div style="font-size: 24px; font-weight: bold; animation: move 5s linear infinite;">
+  🚀 Passionate **Java Developer** with expertise in **Spring Boot**, **Microservices**, and **Security.**
+</div>
 
----
-
-## 🚀 About Me:
-✔️ Passionate **Java Developer** with expertise in **Spring Boot, Microservices, and Security.**  
-✔️ Always learning and exploring new technologies.  
-✔️ **Building scalable web applications & APIs** with clean and efficient code.  
-✔️ Love working on **backend development & system architecture.**
-
----
-
-## 🛠 Tech Stack:
-
-### 💻 Programming Languages:
+# 🛠 Tech Stack:
+## 💻 Programming Languages:
 - **Java ☕**
 - **JavaScript**
 - **SQL**
 
-### 🔧 Backend Development:
+## 🔧 Backend Development:
 - **Spring Boot**
 - **Spring Security 6**
 - **Microservices Architecture**
 - **Maven & RESTful APIs**
 
-### 🎨 Frontend Development:
+## 🎨 Frontend Development:
 - **React.js ⚛️**
 - **MUI (Material UI)**
 - **Framer Motion**
 
-### 🗄️ Databases:
+## 🗄️ Databases:
 - **MySQL**
 - **MongoDB**
 
-### 🛠 Dev Tools:
+## 🛠 Dev Tools:
 - **IntelliJ IDEA**
 - **VS Code**
 - **Git & GitHub**
 - **Postman**
 - **Docker (Basics)**
 
+<style>
+  @keyframes move {
+    0% { transform: translateX(0); }
+    50% { transform: translateX(50px); }
+    100% { transform: translateX(0); }
+  }
+  .moving-text {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    animation: move 3s linear infinite;
+  }
+</style>
+
+<div class="moving-text">🔧 Let's build something amazing together! 🔧</div>
 ---
 
 ## 📊 GitHub Stats:
