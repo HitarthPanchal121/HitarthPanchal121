@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Framer%20Motion-%23FF0066.svg?style=for-the-badge&logo=framer&logoColor=white">
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
 </p>
----
 
 ## 🚀 About Me:
 ✔️ Passionate **Java Developer** with expertise in **Spring Boot, Microservices, and Security.**  
