@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07a834a5-1edd-4592-9819-660e324a412e" width="100%" height="300px">
+  <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" width="100%" height="350px">
 </p>
 
 <p align="center">
